@@ -2,10 +2,10 @@ import NextAuth from "next-auth"
 
 declare module "next-auth" {
   interface Session {
-    accessToken?: string
+    accessToken?: unknown
   }
 
   interface JWT {
-    accessToken?: string
+    accessToken?: unknown
   }
 }
