@@ -127,3 +127,5 @@ Other supported services:
 ## License
 
 MIT License - see LICENSE file for details.
+
+<!-- Deployment trigger: 2026-02-06T02:45:24.263Z -->
