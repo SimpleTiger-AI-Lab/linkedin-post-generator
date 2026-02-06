@@ -10,7 +10,7 @@ A Next.js application for generating and scheduling LinkedIn posts with AI assis
 - 🎨 AI image generation (placeholder ready)
 - 📅 Post scheduling and management
 - 📱 Responsive design
-- 🚀 One-click posting to LinkedIn
+- 🚀 One-click posting to LinkedIn!
 
 ## Getting Started
 
